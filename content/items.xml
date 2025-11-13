@@ -1,0 +1,18 @@
+<items gfxroot="gfx/items/" version="1">
+    <active
+        id="733"
+        name="Devil's Coin"
+        description="Your fate is sealed"
+        gfx="collectibles_devilscoin.png"
+        maxcharges="6"
+        chargetype="normal"
+        quality="4"
+        tags="devil" />
+    <passive
+        id="734"
+        name="Olymo's Contract"
+        description="A familiar's bond"
+        gfx="olymo.png"
+        quality="3"
+        tags="treasure" />
+</items>

@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <entities anm2root="gfx/" version="5">
-<entity name="Olymo" id="4" anm2path="familiar_olymo.anm2" tags="cansacrifice" shadowSize="12" friction="0.8"/>
+    <entity name="Olymo" id="4" anm2path="familiar_olymo.anm2"
+    tags="cansacrifice" shadowSize="12" friction="0.8" />
 </entities>
+
+
